@@ -260,4 +260,5 @@ The combination of rPPG, HRV analytics, stress estimation, and a Streamlit inter
 
 
 Abhishek R. Dubey
-*(AI Engineer)
+
+(AI Engineer)
