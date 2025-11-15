@@ -1,4 +1,3 @@
-```markdown
 # 📡 Contactless Vitals & Stress Monitoring System  
 **Real-time Heart Rate, HRV, Stress Index, SpO₂ & PPG Waveform using rPPG + Multi-ROI Skin Tracking**
 
