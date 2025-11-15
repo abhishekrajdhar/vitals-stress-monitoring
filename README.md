@@ -257,8 +257,7 @@ MIT License — free to use, modify, and distribute.
 This project demonstrates a full real-time contactless vitals system using modern computer vision and signal-processing techniques.
 The combination of rPPG, HRV analytics, stress estimation, and a Streamlit interface makes this a complete and functional wellness monitoring solution.
 
-```
 
-# Abhishek R. Dubey
 
-(AI Engineer)
+Abhishek R. Dubey
+*(AI Engineer)
